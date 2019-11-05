@@ -1,6 +1,8 @@
 ---
-title: "firstMD"
-output: pdf_document
+layout: post
+title: R 
+image: pandoras_box.jpeg
+tags: [R]
 ---
 
 ```{r setup, include=FALSE}
